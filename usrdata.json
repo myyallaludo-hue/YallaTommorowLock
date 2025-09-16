@@ -16,5 +16,11 @@
         "key": "tech2guide",
         "expirydate": "15-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b892a18edc187703",
+        "key": "stayke24",
+        "expirydate": "25-12-2025",
+        "Allowoffline": false
     }
 ]
