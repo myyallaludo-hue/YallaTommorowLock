@@ -22,5 +22,11 @@
         "key": "jty56m",
         "expirydate": "27-05-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "fa08862fbac0fb9d",
+        "key": "Murtaza",
+        "expirydate": "27-05-2028",
+        "Allowoffline": false
     }
 ]
