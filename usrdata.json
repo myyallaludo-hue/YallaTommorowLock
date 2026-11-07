@@ -52,6 +52,12 @@
         "key": "Nida03",
         "expirydate": "27-05-2029",
         "Allowoffline": false
+    },
+    { 
+        "device_id": "1ec69058f758b309",
+        "key": "Nida04",
+        "expirydate": "27-05-2029",
+        "Allowoffline": false
     }
    
 ]
