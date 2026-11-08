@@ -64,6 +64,12 @@
         "key": "umairshafiq2062",
         "expirydate": "27-05-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3afdb5a094f4d113",
+        "key": "shaina12",
+        "expirydate": "27-05-2036",
+        "Allowoffline": false
     }
    
 ]
