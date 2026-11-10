@@ -76,7 +76,11 @@
         "key": "umairking007",
         "expirydate": "27-05-2035",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "44fd2bfc62d6fd47",
+        "key": "Mteam01",
+        "expirydate": "27-05-2029",
+        "Allowoffline": false
    
 ]
-
