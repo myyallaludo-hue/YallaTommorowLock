@@ -83,4 +83,11 @@
         "expirydate": "27-05-2029",
         "Allowoffline": false
     },
+    {
+        "device_id": "caf071eb8f2b251a",
+        "key": "vipnaveed1",
+        "expirydate": "27-05-2043",
+        "Allowoffline": false
+    }
+    
 ]
