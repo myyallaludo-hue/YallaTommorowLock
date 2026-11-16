@@ -100,6 +100,12 @@
         "key": "busy021",
         "expirydate": "01-01-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6cea81278ee5f61d",
+        "key": "Nomikhan76",
+        "expirydate": "01-12-2027",
+        "Allowoffline": false
     }
     
 ]
