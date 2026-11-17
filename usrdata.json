@@ -106,6 +106,12 @@
         "key": "Nomikhan76",
         "expirydate": "01-12-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f92ae93643d0af0a",
+        "key": "cutepari",
+        "expirydate": "27-05-2050",
+        "Allowoffline": false
     }
     
 ]
