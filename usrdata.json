@@ -112,6 +112,12 @@
         "key": "cutepari",
         "expirydate": "27-05-2050",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8b0604e42df8de0c",
+        "key": "gujjargaming",
+        "expirydate": "24-11-2026",
+        "Allowoffline": false
     }
     
 ]
